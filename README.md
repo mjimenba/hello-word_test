@@ -1,6 +1,3 @@
 # hello-word_test 
 
-hola, 
-
-
-hahjha jhjahjhjha jh jhjhjahjh
+Prueba de modificacion del edit en GIT
